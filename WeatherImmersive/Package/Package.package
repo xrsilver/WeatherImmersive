@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="07263c43-1618-4815-bef0-5d32b9bb7dc9" 
+        solutionId="07263c43-1618-4815-bef0-5d32b9bb7dc9" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="WeatherImmersive"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="ed1dce25-fa90-44a5-9a3b-1f2abbf15e0e" />
+  </features>
+</package>
